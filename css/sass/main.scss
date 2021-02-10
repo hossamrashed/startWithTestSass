@@ -1,0 +1,10 @@
+@import "var-color";
+
+.color {
+    color: $maincolor;
+    border-radius: 50%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
